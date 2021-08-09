@@ -1,0 +1,12 @@
+﻿  Bullet.cpp
+  Draw.cpp
+  Game.cpp
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.h(14,16): warning C4091: “extern ”: 没有声明变量时忽略“DIR”的左侧
+  main.cpp
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.h(14,16): warning C4091: “extern ”: 没有声明变量时忽略“DIR”的左侧
+  Tank.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 204 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  TankWar.vcxproj -> C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\x64\Release\TankWar.exe

@@ -1,0 +1,20 @@
+﻿  Bullet.cpp
+  Draw.cpp
+  Game.cpp
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.h(14,16): warning C4091: “extern ”: 没有声明变量时忽略“DIR”的左侧
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(142,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(156,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(167,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(169,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(200,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(231,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(239,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(251,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(253,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(299,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.cpp(439,21): warning C4018: “<”: 有符号/无符号不匹配
+  Tank.cpp
+  main.cpp
+C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\TankWar\Game.h(14,16): warning C4091: “extern ”: 没有声明变量时忽略“DIR”的左侧
+  正在生成代码...
+  TankWar.vcxproj -> C:\Users\MECHREVO\Desktop\program\高程\第二次课程设计\TankWar\Debug\TankWar.exe
